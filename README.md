@@ -25,7 +25,7 @@ ios版本未做友盟接口的集成和CodePush的功能。。。。
 
 ## 计划更新
 
-1. 性能优化：考虑引入immutable.js
+1. 性能优化：引入immutable.js
 2. ios版本集成友盟接口和CodePush
 3. 新添功能
 
