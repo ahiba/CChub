@@ -1,0 +1,16 @@
+
+export const SCENE_WELCOME = 'WELCOME'
+export const SCENE_TAB = 'TAB'
+export const SCENE_POPULAR = 'POPULAR'
+export const SCENE_TREND = 'TREND'
+export const SCENE_COLLECT = 'COLLECT'
+export const SCENE_MY = 'MY'
+export const SCENE_REPOSITY_DETAIL = 'REPOSITY_DETAIL'
+export const SCENE_CUSTOM_KEY = 'CUSTOM_KEY'
+export const SCENE_SORT_KEY = 'SORT_KEY'
+export const SCENE_ABOUT = 'ABOUT'
+export const SCENE_ABOUT_ME = 'ABOUT_ME'
+export const SCENE_WEBSITE = 'WEBSITE'
+export const SCENE_SEARCH = 'SEARCH'
+export const SCENE_COPYRIGHT = 'COPYRIGHT'
+
